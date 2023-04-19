@@ -1,6 +1,4 @@
 ﻿using Dice_Game;
-using System.Reflection.Metadata.Ecma335;
-
 namespace _6_loops
 {
     internal class Program
